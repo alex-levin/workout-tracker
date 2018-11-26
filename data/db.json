@@ -1,0 +1,62 @@
+{
+  "performanceTargets": {
+    "bike": "1000",
+    "run": "2200",
+    "row": "1500"
+  },
+  "workouts": [
+    {
+      "type": "bike",
+      "date": "2018-8-6",
+      "distance": "200",
+      "id": 4
+    },
+    {
+      "type": "run",
+      "date": "2018-8-31",
+      "distance": "140",
+      "id": 5,
+      "rating": null
+    },
+    {
+      "type": "bike",
+      "date": "11/29/2018",
+      "distance": "100 miles",
+      "id": 6
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Main gym"
+    },
+    {
+      "id": 2,
+      "name": "Home gym"
+    },
+    {
+      "id": 3,
+      "name": "Neighborhood 1 mile course"
+    },
+    {
+      "id": 4,
+      "name": "Neighborhood 3 mile course"
+    },
+    {
+      "id": 5,
+      "name": "Neighborhood 5 mile course"
+    },
+    {
+      "id": 6,
+      "name": "Smallville 20 mile course"
+    },
+    {
+      "id": 7,
+      "name": "Smallville 25 mile course"
+    },
+    {
+      "id": 8,
+      "name": "Smallville 30 mile course"
+    }
+  ]
+}
